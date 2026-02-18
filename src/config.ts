@@ -5,7 +5,7 @@
 // ============================================================
 
 // Product identity
-export const PRODUCT_NAME = "{{PRODUCT_NAME}}";
+export const COPY_PRODUCT_NAME = "{{COPY_PRODUCT_NAME}}";
 export const BRAND_NAME = "{{BRAND_NAME}}";
 
 // PDP URL (injected after PDP build deploys)
@@ -29,15 +29,15 @@ export const ADV_META_TITLE = "{{ADV_META_TITLE}}";
 export const ADV_META_DESC = "{{ADV_META_DESC}}";
 export const ADV_PUBLICATION_NAME = "{{ADV_PUBLICATION_NAME}}";
 export const ADV_DATE = "{{ADV_DATE}}";
-export const ADV_HEADLINE = "{{ADV_HEADLINE}}";
-export const ADV_SUBHEADLINE = "{{ADV_SUBHEADLINE}}";
+export const ADV_H1 = "{{ADV_H1}}";
+export const ADV_SUBHEAD = "{{ADV_SUBHEAD}}";
 export const ADV_STORY_P1 = "{{ADV_STORY_P1}}";
 export const ADV_STORY_P2 = "{{ADV_STORY_P2}}";
 export const ADV_STORY_P3 = "{{ADV_STORY_P3}}";
 export const ADV_STORY_P4 = "{{ADV_STORY_P4}}";
-export const ADV_PROBLEM_HEADLINE = "{{ADV_PROBLEM_HEADLINE}}";
-export const ADV_PROBLEM_BODY = "{{ADV_PROBLEM_BODY}}";
-export const ADV_MECHANISM_HEADLINE = "{{ADV_MECHANISM_HEADLINE}}";
+export const ADV_P2_HEADLINE = "{{ADV_P2_HEADLINE}}";
+export const ADV_P2_BODY = "{{ADV_P2_BODY}}";
+export const ADV_P3_HEADLINE = "{{ADV_P3_HEADLINE}}";
 export const ADV_MECHANISM_BODY = "{{ADV_MECHANISM_BODY}}";
 export const ADV_PRODUCT_REVEAL_HEADLINE = "{{ADV_PRODUCT_REVEAL_HEADLINE}}";
 export const ADV_PRODUCT_REVEAL_BODY = "{{ADV_PRODUCT_REVEAL_BODY}}";
@@ -48,29 +48,29 @@ export const ADV_TESTIMONIAL_1_QUOTE = "{{ADV_TESTIMONIAL_1_QUOTE}}";
 export const ADV_TESTIMONIAL_1_ATTR = "{{ADV_TESTIMONIAL_1_ATTR}}";
 export const ADV_TESTIMONIAL_2_QUOTE = "{{ADV_TESTIMONIAL_2_QUOTE}}";
 export const ADV_TESTIMONIAL_2_ATTR = "{{ADV_TESTIMONIAL_2_ATTR}}";
-export const ADV_CTA_HEADLINE = "{{ADV_CTA_HEADLINE}}";
-export const ADV_CTA_BODY = "{{ADV_CTA_BODY}}";
-export const ADV_CTA_BTN = "{{ADV_CTA_BTN}}";
+export const ADV_MID_CTA_HEADLINE = "{{ADV_MID_CTA_HEADLINE}}";
+export const ADV_MID_CTA_BODY = "{{ADV_MID_CTA_BODY}}";
+export const ADV_MID_CTA_BUTTON = "{{ADV_MID_CTA_BUTTON}}";
 export const ADV_DISCLAIMER = "{{ADV_DISCLAIMER}}";
 
 // Extended copy slots (mapped from existing advertorial structure)
 export const ADV_OPENING_SCENE = "{{ADV_OPENING_SCENE}}";
 export const ADV_MECHANISM_NAME = "{{ADV_MECHANISM_NAME}}";
-export const ADV_PROBLEM_BODY_2 = "{{ADV_PROBLEM_BODY_2}}";
-export const ADV_PROBLEM_BODY_3 = "{{ADV_PROBLEM_BODY_3}}";
-export const ADV_PROBLEM_BODY_4 = "{{ADV_PROBLEM_BODY_4}}";
-export const ADV_PROBLEM_BODY_5 = "{{ADV_PROBLEM_BODY_5}}";
-export const ADV_PROBLEM_BODY_CLOSE = "{{ADV_PROBLEM_BODY_CLOSE}}";
-export const ADV_MECHANISM_BODY_2 = "{{ADV_MECHANISM_BODY_2}}";
-export const ADV_MECHANISM_BODY_3 = "{{ADV_MECHANISM_BODY_3}}";
-export const ADV_MECHANISM_BODY_4 = "{{ADV_MECHANISM_BODY_4}}";
-export const ADV_MECHANISM_BODY_5 = "{{ADV_MECHANISM_BODY_5}}";
-export const ADV_PHASE_1_TITLE = "{{ADV_PHASE_1_TITLE}}";
-export const ADV_PHASE_1_BODY = "{{ADV_PHASE_1_BODY}}";
-export const ADV_PHASE_2_TITLE = "{{ADV_PHASE_2_TITLE}}";
-export const ADV_PHASE_2_BODY = "{{ADV_PHASE_2_BODY}}";
-export const ADV_PHASE_3_TITLE = "{{ADV_PHASE_3_TITLE}}";
-export const ADV_PHASE_3_BODY = "{{ADV_PHASE_3_BODY}}";
+export const ADV_P2_BODY_2 = "{{ADV_P2_BODY_2}}";
+export const ADV_P2_BODY_3 = "{{ADV_P2_BODY_3}}";
+export const ADV_P2_BODY_4 = "{{ADV_P2_BODY_4}}";
+export const ADV_P2_BODY_5 = "{{ADV_P2_BODY_5}}";
+export const ADV_P2_BODY_CLOSE = "{{ADV_P2_BODY_CLOSE}}";
+export const ADV_P3_BODY_2 = "{{ADV_P3_BODY_2}}";
+export const ADV_P3_BODY_3 = "{{ADV_P3_BODY_3}}";
+export const ADV_P3_BODY_4 = "{{ADV_P3_BODY_4}}";
+export const ADV_P3_BODY_5 = "{{ADV_P3_BODY_5}}";
+export const ADV_ACTION_1_TITLE = "{{ADV_ACTION_1_TITLE}}";
+export const ADV_ACTION_1_BODY = "{{ADV_ACTION_1_BODY}}";
+export const ADV_ACTION_2_TITLE = "{{ADV_ACTION_2_TITLE}}";
+export const ADV_ACTION_2_BODY = "{{ADV_ACTION_2_BODY}}";
+export const ADV_ACTION_3_TITLE = "{{ADV_ACTION_3_TITLE}}";
+export const ADV_ACTION_3_BODY = "{{ADV_ACTION_3_BODY}}";
 export const ADV_SOCIAL_PROOF_INTRO = "{{ADV_SOCIAL_PROOF_INTRO}}";
 export const ADV_BUNDLE_1_NAME = "{{ADV_BUNDLE_1_NAME}}";
 export const ADV_BUNDLE_1_PRICE = "{{ADV_BUNDLE_1_PRICE}}";
